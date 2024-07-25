@@ -4,6 +4,8 @@ def addSum(x,y):
 res=addSum(10+20)	
 print(res)
  hahaha
+ptint("hahahaha)
+
 
 
 hello its me ahemji.txt
