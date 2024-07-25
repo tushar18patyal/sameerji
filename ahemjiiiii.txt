@@ -1,1 +1,4 @@
-hello its ahemji.txt
+def addSum(x,y):
+	return x+y
+res=addSum(10+20)	
+print(res)
