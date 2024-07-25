@@ -1,3 +1,10 @@
+def addSum(x,y):
+	return x+y
+res=addSum(10+20)	
+print(res)
+
+
+
 hello its me ahemji.txt
 iam here in Amdocs
 abc
