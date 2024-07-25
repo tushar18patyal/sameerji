@@ -1,8 +1,9 @@
+a=10
 def addSum(x,y):
 	return x+y
 res=addSum(10+20)	
 print(res)
-
+ hahaha
 
 
 hello its me ahemji.txt
